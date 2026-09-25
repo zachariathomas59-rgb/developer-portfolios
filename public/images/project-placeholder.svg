@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Aperçu de projet à remplacer par une capture d’écran">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172a31"/>
+      <stop offset="1" stop-color="#101313"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d4a84f" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#d4a84f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="url(#bg)"/>
+  <circle cx="900" cy="160" r="320" fill="url(#glow)"/>
+  <path d="M90 560h1020" stroke="#d4a84f" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M90 110h280M90 130h190" stroke="#fff" stroke-opacity=".22" stroke-width="5" stroke-linecap="round"/>
+  <text x="90" y="420" fill="#f5f2ea" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="8">ZACHARIA</text>
+  <text x="95" y="500" fill="#d4a84f" font-family="Arial, sans-serif" font-size="26" letter-spacing="6">PROJET NUMÉRIQUE</text>
+  <text x="95" y="625" fill="#f5f2ea" fill-opacity=".5" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">CAPTURE DU SITE À VENIR</text>
+</svg>
